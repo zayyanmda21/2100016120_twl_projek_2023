@@ -1,0 +1,40 @@
+ User Guide: Formulir Reservasi Cuci Mobil
+
+1. Pengenalan
+
+User guide ini akan membantu Anda memahami cara menggunakan web kami untuk membantu anda mengisi formulir reservasi cuci mobil
+
+2. Persyaratan Sistem
+
+Sebelum Anda mulai menggunakan web Formulir Reservasi Cuci Mobil, pastikan perangkat Anda memenuhi persyaratan sistem berikut:
+
+Sistem Operasi: Bisa di semua perangkat android dan windows
+Koneksi Internet: Diperlukan untuk mengakses fitur berbasis online.
+
+3. Registrasi dan Masuk
+
+Jika baru pertama kali:
+
+- Buka web dan ketuk "Register."
+
+- Isi formulir pendaftaran dengan email dan kata sandi.
+
+Jika Anda sudah memiliki akun:
+
+- Buka web dan ketuk "Login."
+
+- Masukkan alamat email dan kata sandi yang terdaftar.
+
+- Ketuk "Login" untuk mengakses akun Anda.
+
+4. Beranda
+
+Setelah masuk, Anda akan diarahkan ke halaman Beranda, tempat Anda dapat melihat data data reservasi anda
+
+5. Update
+
+Bisa mengaupdate data jika terjadi kesalahan pada penulisan data
+
+6. Delete
+
+Bisa menghapus data jika tidak jadi mereservasi cuci mobil
